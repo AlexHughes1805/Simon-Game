@@ -1,4 +1,4 @@
-# CS230-Simon-Game
+# Simon-Game
 Simon Says game.
 
 Press start and begin playing.
