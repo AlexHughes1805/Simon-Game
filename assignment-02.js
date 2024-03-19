@@ -92,6 +92,7 @@ function gameTurn()
     }
 }
 
+// changes button colours to white
 function one()
 {
     green.style.backgroundColor = "white";
@@ -112,6 +113,7 @@ function four()
     blue.style.backgroundColor = "white";
 }
 
+// turns buttons back to their original colours
 function clearColour()
 {
     green.style.backgroundColor = "#3edd4b";
@@ -126,6 +128,7 @@ function clearColour()
 #4b3edd - blue
 */
 
+// makes all buttons flash white
 function flashColour()
 {
     green.style.backgroundColor = "white";
